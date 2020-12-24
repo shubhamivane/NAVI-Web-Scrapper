@@ -1,0 +1,19 @@
+{
+  "name": "csgo-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to gets upcoming NAVI CSGO Matches",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamivane/NAVI-Web-Scrapper.git"
+  },
+  "author": "Shubham Ivane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamivane/NAVI-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/shubhamivane/NAVI-Web-Scrapper#readme"
+}
